@@ -1,2 +1,2 @@
-# indent backup files
-*.BAK
+# Backup files di Visual Paradigm
+*.vpp.bak_*
